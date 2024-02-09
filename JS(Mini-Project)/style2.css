@@ -1,0 +1,125 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.display {
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    background: linear-gradient(90deg, rgb(169, 169, 169), white);
+    box-shadow: inset 0px 0px 50px rgb(0, 0, 0);
+}
+
+.dispBox {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.greenballs {
+    border: 5px solid rgb(52, 52, 52);
+    height: 30px;
+    width: 30px;
+    border-radius: 70%;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.btn1 {
+    height: 130px;
+    width: 130px;
+    border: 7px solid black;
+    background-color: black;
+}
+
+.play {
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    background: linear-gradient(90deg, rgb(169, 169, 169), white);
+    box-shadow: inset 0px 0px 50px rgb(0, 0, 0);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    height: 130px;
+    width: 130px;
+    border: 4px solid black;
+    margin: 10px;
+    background-color: rgb(127, 127, 127);
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+body {
+    text-align: center;
+}
+
+.greenballs {
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 70%;
+    display: inline-block;
+}
+
+.popred {
+    background-color: red;
+}
+
+.red {
+    background-color: #d95980;
+    box-shadow: 10px 8px grey;
+}
+
+.yellow {
+    background-color: #f99b45;
+    box-shadow: 10px 8px grey;
+}
+
+.green {
+    background-color: #63aac0;
+    box-shadow: 10px 8px grey;
+}
+
+.purple {
+    background-color: #819ff9;
+    box-shadow: 10px 8px grey;
+}
+
+.flash {
+    background-color: white;
+}
+
+.animation {
+    height: 120px;
+    width: 120px;
+    border: 7px solid black;
+    border-radius: 10%;
+}
+
+.userflash {
+    background-color: greenyellow;
+}
